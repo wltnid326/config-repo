@@ -1,0 +1,5 @@
+service: 
+	name: "Service A - Prodiction Environment"
+logging: 
+	level: 
+		root: WARN 
